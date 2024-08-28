@@ -10,7 +10,7 @@ const routes = {
   "docker.szlihua.us.kg": dockerHub,
   "quay.szlihua.us.kg": "https://quay.io",
   "gcr.szlihua.us.kg": "https://gcr.io",
-  "k8s-gcr.libcuda.so": "https://k8s.gcr.io",
+  "k8s-gcr.szlihua.us.kg": "https://k8s.gcr.io",
   "k8s.szlihua.us.kg": "https://registry.k8s.io",
   "ghcr.szlihua.us.kg": "https://ghcr.io",
   "cloudsmith.szlihua.us.kg": "https://docker.cloudsmith.io",
